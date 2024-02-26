@@ -28,3 +28,64 @@ body {
   height: 100px;
   background-color: blue;
 }
+ /* exercise 1 */
+/* .two, .three, .four{
+position: relative;
+top: 50px;
+left: 50px;
+} */
+
+/* exercise 2
+.four {
+position:absolute;
+right: 0px;
+} */
+
+/* exercise 3
+.three {
+position:relative;
+top: 200px;
+left: 400px;
+}
+.four{
+  position: relative;
+  top: 100px;
+} */
+
+/* exercise 4 */
+/* .two {
+  position:absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.three {
+  position:absolute;
+  left: -100px;
+  top: -100px;
+}
+
+.four {
+  position:absolute;
+  left: 100px;
+  top: 100px;
+} */
+
+/* exercise 5 */
+.two {
+  position:absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.three {
+  position:absolute;
+  right: 100px;
+  bottom: 300px;
+}
+
+.four {
+  position:fixed;
+  left: 4.5px;
+  top: 4.5px;
+}
